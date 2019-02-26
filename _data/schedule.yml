@@ -1,0 +1,16 @@
+- day: 1
+  activities:
+  - time: 0830 - 0900
+    title: Registration & Breakfast & Team Formation
+  - time: 0900 - 0915
+    title: Opening & Entertainment
+  - time: 0915 - 1100
+    title: Talks
+  - time: 1100 - 1300
+    title: Networking & Lunch & Games
+  - time: 1300 - 1600
+    title: Competition (O-level) & Workshop (A-level)
+  - time: 1600 - 1715
+    title: Talks & Judging (concurrent)
+  - time: 1715 - 1730
+    title: Awards & Group Photo & Closing
