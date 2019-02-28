@@ -26,15 +26,15 @@ Let's make our Nation Smarter!
 
 ## Format
 
-Continuing the success of BuildingBloCS '17 and BuidlingBloCS '18, 2019 sees the expansion of BuildingBloCS in various sectors! This year, BuildingBloCS expands its target audience to both **O-level and A-level Computing students**. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes!
+Continuing the success of BuildingBloCS '17 and BuidlingBloCS '18, 2019 will the year of breakthroughs! This year, BuildingBloCS expands its expected target audience to both **10 000 Computing and Non-Computing students**. We hope to bring forth the idea that Computing is essential to the future of Singapore. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes! Through BuildingBloCS '19, we hope we can continue to spark the passion for Computing among students!
 
 ## Pre-events
 
-**Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing and Python prowess and are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
+**Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and be able to contribute to the progress of Singapore as a Smart Nation, they are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
 ## Event
 
-The home. Where the heart of the event is; A line up of **fringe games, talks, workshops and competitions** will be conducted on the **7 June at the NUS School of Computing**! The event will close with a **Lucky Draw** and an **Award Ceremony**. BuildingBloCS '19 is also held in conjuction with **Python APAC 2019**, connecting participants to the wider Pythonista community!  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
+The home. Where the heart of the event is; A line up of **fringe games, talks, workshops and a finale competition** will be conducted on the **7 June at the NUS School of Computing**! The event will close with an **Exciting Lucky Draw** and an **Award Ceremony**. This year, BuildingBloCS '19 will also be having **Awesome Projects Showcase** at the **FOSSASIA OpenTech Summit**. Sounds exciting, do come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**. [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
 <div style="font-size: 1.25em; text-align: center">
   <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Photos</a>
