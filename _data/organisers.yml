@@ -4,10 +4,8 @@
   img: sch/dhs.png
 - title: Hwa Chong Institution
   img: sch/hci.png
-- title: Innova Junior College
-  img: sch/ijc.png 
-- title: Jurong Junior College
-  img: sch/jjc.png
+- title: Jurong Pioneer Junior College
+  img: sch/jpjc.png
 - title: National Junior College
   img: sch/njc.png
 - title: Nanyang Junior College
@@ -16,11 +14,9 @@
   img: sch/nyp.png 
 - title: NUS High School
   img: sch/nushs.png
-- title: Pioneer Junior College
-  img: sch/pjc.png
 - title: Raffles Institution
   img: sch/ri.png
 - title: River Valley High School
   img: sch/rvhs.png
-- title: Yishun Junior College
-  img: sch/yjc.jpg
+- title: Yishun Innova Junior College
+  img: sch/yijc.png
