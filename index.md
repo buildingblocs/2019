@@ -26,7 +26,7 @@ Let's make our Nation Smarter!
 
 ## Format
 
-Continuing the success of BuildingBloCS '17 and BuidlingBloCS '18, 2019 will the year of breakthroughs! This year, BuildingBloCS expands its expected target audience to both **10 000 Computing and Non-Computing students**. We hope to bring forth the idea that Computing is essential to the future of Singapore. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes! Through BuildingBloCS '19, we hope we can continue to spark the passion for Computing among students!
+Continuing the success of BuildingBloCS '17 and BuidlingBloCS '18, 2019 will the year of breakthroughs! This year, BuildingBloCS expands its expected target audience to both **10 000 Computing and Non-Computing students**. We hope to bring forth the idea that Computing is essential to the future of Singapore. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes! Through BuildingBloCS '19, we hope to spark a **long-lasting passion** for Computing among students!
 
 ## Pre-events
 
