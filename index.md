@@ -30,7 +30,7 @@ Continuing the success of BuildingBloCS '17 and BuidlingBloCS '18, 2019 will the
 
 ## Pre-events
 
-**Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and be able to contribute to the progress of Singapore as a Smart Nation, they are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
+**Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
 ## Event
 
