@@ -18,15 +18,15 @@ published: true
     </div>
 </section>
 
-> &lsquo;A&rsquo; level / Integrated Programme and &lsquo;O&rsquo; level Computing students come together to build an infocomm-empowered future! 
+> &lsquo;A&rsquo; level / Integrated Programme and &lsquo;O&rsquo; level Computing students come together to build an infocomm-empowered future for a Better World!
 
-## Theme: OYEA Python!
+## Theme: Building a Smart Nation!
 
-Experience and share the Python-powered web with the world!
+Let's make our Nation Smarter!
 
 ## Format
 
-Continuing the success of the inaugural BuildingBloCS '17, 2018 sees the expansion of BuildingBloCS in various sectors! This year, BuildingBloCS expands its target audience to both **O-level and A-level Computing students**. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes!
+Continuing the success of BuildingBloCS '17 and BuidlingBloCS '18, 2019 sees the expansion of BuildingBloCS in various sectors! This year, BuildingBloCS expands its target audience to both **O-level and A-level Computing students**. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes!
 
 ## Pre-events
 
@@ -34,7 +34,7 @@ Continuing the success of the inaugural BuildingBloCS '17, 2018 sees the expansi
 
 ## Event
 
-The home. Where the heart of the event is; A line up of **fringe games, talks and a final competition** will be conducted on the **1 June at the NUS School of Computing**! The event will close with a **Lucky Draw** and an **Award Ceremony**. BuildingBloCS '18 is also held in conjuction with **Python APAC 2018**, connecting participants to the wider Pythonista community!  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
+The home. Where the heart of the event is; A line up of **fringe games, talks, workshops and competitions** will be conducted on the **7 June at the NUS School of Computing**! The event will close with a **Lucky Draw** and an **Award Ceremony**. BuildingBloCS '19 is also held in conjuction with **Python APAC 2019**, connecting participants to the wider Pythonista community!  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
 <div style="font-size: 1.25em; text-align: center">
   <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Photos</a>
