@@ -22,7 +22,7 @@ published: true
 
 ## Theme: Building a Smart Nation!
 
-Let's make our Nation Smarter!
+Let's make our Nation Smarter with Computing together!
 
 ## Format
 
