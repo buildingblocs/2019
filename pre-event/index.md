@@ -11,7 +11,7 @@ BuildingBloCS 2019 has cooperated with **Fossasia** - the largest Asia-Pacific O
 
 ## Workshop
 
-Our pre-event at Fossasia will be composed of serveral **workshops** include Introduction to Python, VueJS, Databases, Machine Learning with Python and Creating Skills with SUSI.AI. 
+Our pre-event at Fossasia will be composed of serveral **workshops** include Introduction to Python, VueJS, Databases and Machine Learning with Python.
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details!</a>
 
