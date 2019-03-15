@@ -17,8 +17,7 @@ Our pre-event at Fossasia will be composed of serveral **workshops** include Int
 
 ## BBCS BBQ
 
-This year, we have managed to organise a BBQ event for our organisers and volunteers. It will take place  
-on Thursday, 21st Mar at **[classdo.com](https://classdo.com/en/)** home office from 4 to about 8 pm.
+This year, we have managed to organise a BBQ event for our organisers and volunteers. It will take place on Thursday, 21st Mar at **[classdo.com](https://classdo.com/en/)** home office from 4 to about 8 pm.
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/bbq">Get there!</a>
 
