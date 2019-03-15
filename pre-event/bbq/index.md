@@ -6,8 +6,8 @@ layout: default
 
 Our BBQ event will take place at 
 
-- Fraser Residence
-2 Mount Elizabeth Link
+- Fraser Residence,
+2 Mount Elizabeth Link,
 S227973
 
 (1 min from Orchard Paragon/Apple Store/Takashimaya)
