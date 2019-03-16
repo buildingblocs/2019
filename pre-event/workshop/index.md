@@ -73,7 +73,7 @@ Participants will learn about basic machine learning algorithms such as linear r
 *Time:* Friday, 15th March, 19:00 - 20:55
 
 
-*Venue:* Training room 2-2
+*Venue:* Theatre Lounge
 
 *Time:* Saturday, 16th March, 10:00 - 11:55
 
