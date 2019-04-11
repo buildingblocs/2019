@@ -48,72 +48,34 @@ This week, we combine what we learn in the previous 2 weeks, and learn how to di
 <a class="btn disabled" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
 *Q&A Date:* 27 May (Sunday), 2pm-5pm 
 If the demand is high, we will also open up a final consultation session to answer any questions you have for the actual competiton on 1 June!
---->
-This year's pre-event workshop will be held together with **[Fossasia](https://2019.fossasia.org/)** at **Lifelong Learning Institute**. Below are details.
+-->
+This year's pre-event workshops were held together with **[Fossasia](https://2019.fossasia.org/)** at **Lifelong Learning Institute**. Below are the details. (More videos will be uploaded soon)
 
-># Introduction to SQLite
+## Introduction to SQLite
 
 Participants will learn about relational databases through SQLite, a self-contained, serverless, zero-configuration, transactional SQL database engine which is the most widely deployed database in the world. Both single and multi-table (with normalization) scenarios will be covered. Participants will connect to SQLite using the Python sqlite3 standard library module to perform common operations.
 
-*Venue:* Training room 9-2/9-3
-
-*Time:* Friday, 15th March, 19:00 - 20:55
-
-*Venue:* Training room 2-2
-
-*Time:* Saturday, 16th March, 19:00 - 20:55
+<a class="btn" href="https://youtu.be/mWeal6bP0P8">Video</a>
 
 
-># Machine Learning with Python
+## Machine Learning with Python
 
 Participants will learn about basic machine learning algorithms such as linear regression and build a single layer perceptron to improve the performance of the linear regression model.
 
-*Venue:* Event Hall 2-1
+<a class="btn" href="https://youtu.be/7H7mvU1JLOU">Video</a>
 
-*Time:* Friday, 15th March, 19:00 - 20:55
-
-
-*Venue:* Theatre Lounge
-
-*Time:* Saturday, 16th March, 10:00 - 11:55
-
-
-*Venue:* Event Hall 2-1
-
-*Time:* Saturday, 16th March, 19:00 - 20:55
-
-
-># Introduction to Python
+## Introduction to Python
 
 Participants will learn how Python can be used to automate common tasks and program a simple text-based game. We will cover data types, conditionals, loops, data structures and functions.
 
-*Venue:* Theatre Lounge
 
-*Time:* Friday, 15th March, 19:00 - 20:55
-
-
-*Venue:* Theatre Lounge
-
-*Time:* Saturday, 16th March, 19:00 - 20:55
-
-
-># Introduction to VueJS
+## Introduction to VueJS
 
 Participants will learn about VueJS, a progressive JavaScript framework for creating user interfaces. They will build a simpe SPA (Single Page Application) by applying VueJS's core concepts.
 
-*Venue:* Training room 2-1
 
-*Time:* Friday, 15th March, 19:00 - 20:55
-
-
-># Introduction to MongoDB
+## Introduction to MongoDB
 
 Participants will learn about MongoDB, a cross platform document-oriented NoSQL database system. They will connect to MongoDB using the PyMongo API to perform common operations.
 
-*Venue:* Training room 9-1
 
-*Time:* Friday, 15th March, 19:00 - 20:55
-
-*Venue:* Training room 2-1
-
-*Time:* Saturday, 16th March, 19:00 - 20:55

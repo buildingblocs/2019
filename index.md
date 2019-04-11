@@ -34,6 +34,8 @@ Continuing the success of BuildingBloCS '17 and BuildingBloCS '18, 2019 will the
 
 ## Event
 
+Registration is started! [Get to register >>]({{ site.baseurl }}/register)
+
 The home. Where the heart of the event is; A line up of **fringe games, talks, workshops and a finale competition** will be conducted on the **7 June at the NUS School of Computing**! The event will close with an **Exciting Lucky Draw** and an **Award Ceremony**. This year, BuildingBloCS '19 will also be having **Awesome Projects Showcase** at the **FOSSASIA OpenTech Summit**. Sounds exciting? So what are you waiting for, come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
 <div style="font-size: 1.25em; text-align: center">
@@ -54,7 +56,7 @@ The home. Where the heart of the event is; A line up of **fringe games, talks, w
 	<a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View more</a>
 </div>
 
-## Organised by
+## Organisers
 
 <section class="organisers">
     {% for organiser in site.data.organisers %}
@@ -63,10 +65,10 @@ The home. Where the heart of the event is; A line up of **fringe games, talks, w
 </section>
 
 
-## Supported by
+## Partners
 
 <section class="organisers">
-    {% for organiser in site.data.sponsors %}
-    <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}" title="{{ organiser.title }}" />
+    {% for partner in site.data.partners %}
+    <img src="{{ site.baseurl }}/assets/img/{{ partner.img }}" title="{{ partner.title }}" />
     {% endfor %}
 </section>
