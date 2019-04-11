@@ -21,7 +21,7 @@ published: true
 
 Interested? [Click here]({{ site.baseurl }}/register#event) to register for it now!
 
-Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notifications on event updates :) 
+Follow [@buildingblocs19](https://instagram.com/buildingblocs19) for quick notifications on event updates :) 
 
 ## Competition
 
@@ -30,7 +30,7 @@ Stay Tuned for more details!!
 
 ## Fringe Games
 
-We have **8 exciting games** lined up for you in BuildingBloCS 2018- From decoding secret passages, to solving puzzles, the possibilities are boundless! 
+We have **8 exciting games** lined up for you in BuildingBloCS 2019- From decoding secret passages, to solving puzzles, the possibilities are boundless! 
 Participants will be pushed to work together and compete against other teams in a race against time.
 
 Details and instructions of the fringe games will be released on the day itself for an element of surprise. **The Best Performing Team will win attractive prizes ;)**
