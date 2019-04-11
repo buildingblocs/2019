@@ -12,8 +12,8 @@ published: true
         <p>
             {{ site.date }}, {{ site.location }}
         </p>
-        <p>
-            <a class="btn" href="{{ site.baseurl }}/contact#location">Get there!</a>
+        <p> <!-- /contact#location-->
+            <a class="btn" href="{{ site.baseurl }}/register">Register!</a>
         </p>
     </div>
 </section>
