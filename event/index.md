@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-
+<!--
 # Schedule
 
 {% for day in site.data.schedule %}
@@ -38,4 +38,5 @@ Details and instructions of the fringe games will be released on the day itself 
 # Photos
 
 <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Album</a>
-
+-->
+## Details of main event will be released soon :)
