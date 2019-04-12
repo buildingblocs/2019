@@ -3,7 +3,8 @@ layout: default
 published: true
 ---
 # Partner
-BuildingBlocs 2019 is coorperated with our dear partners below
+BuildingBlocs 2019 is coorperated with our dear partners below.
+Interested to be a partner to advance Computing education in Singapore schools? Contact [buildingblocs@computing.sg](mailto:buildingblocs@computing.sg)!
 
 	
 <section class="organisers">
@@ -18,7 +19,7 @@ BuildingBloCS is now part of [AI for Students](https://www.aisingapore.org/indus
 		<img src="{{ site.baseurl }}/assets/img/partner/fossasia.png " title="FOSSASIA" />
 	</a>
 </section>
-BuildingBloCS conducts introductory coding workshops for the community in collaboration with [FOSSASIA Academy](https://academy.fossasia.org/) during [OpenTechSummit 2019](http://2019.fossasia.org/#buildingbloc)
+BuildingBloCS conducts introductory coding workshops for the community in collaboration with [FOSSASIA Academy](https://academy.fossasia.org/) during [OpenTechSummit 2019.](http://2019.fossasia.org/#buildingbloc)
 
 <section class="organisers">
 	<a href="https://google.com.sg">
@@ -46,7 +47,7 @@ NUS School of Computing in providing lessons to learn about [data structures and
 		<img src="{{ site.baseurl }}/assets/img/partner/pyusergrp.png " title="Python User Group Singapore" />
 	</a>
 </section>
-BuildingBloCS collaborates with Python User Group Singapore to conduct [PyCon SG](pycon.sg) Young Coders Workshops for students
+BuildingBloCS collaborates with Python User Group Singapore to conduct [PyCon SG](pycon.sg) Young Coders Workshops for students.
 
 
 <section class="organisers">
