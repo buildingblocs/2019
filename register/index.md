@@ -20,6 +20,6 @@ We will have weekly draws on every Fri from 19 Apr and your chances accumulate t
 
 <iframe class="w100" height="900" src="https://docs.google.com/forms/d/e/1FAIpQLSe1gu5bdATszY-I5UEO8AOq9roUyo5G3lwZIfIzhIzg6H5aHg/viewform"></iframe>
 -->
-## [Register for main conference >>](http://tinyurl.com/bbcs19conference)
+## [Register for main conference >>](https://tinyurl.com/bbcs19conference)
 
 <iframe class="w100" height="900" src="http://tinyurl.com/bbcs19conference"></iframe>
