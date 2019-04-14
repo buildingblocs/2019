@@ -55,7 +55,7 @@ BuildingBloCS collaborates with Python User Group Singapore to conduct [PyCon SG
 		<img src="{{ site.baseurl }}/assets/img/partner/thegirlcode.png " title="TheGirlCode" />
 	</a>
 </section>
-The Girl Code aims to inspire young girls to learn programming to bridge the gender gap in the technology sector, it will cooperate with BuildingBloCS and conduct workshops.
+The Girl Code aims to inspire young girls to learn programming to bridge the gender gap in the technology sector. It collaborates with BuildingBloCS to conduct introductory Python programming workshops for female students.
 
 <section class="organisers">
 	<a href="https://classdo.com/en/">
