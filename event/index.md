@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-<!--
+
 # Schedule
 
 {% for day in site.data.schedule %}
@@ -17,10 +17,11 @@ published: true
 </table> 
 {% endfor %}
 
-# Details
+# Updates
 
 Interested? [Click here]({{ site.baseurl }}/register#event) to register for it now!
 
+<!--
 Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notifications on event updates :) 
 
 ## Competition
@@ -39,4 +40,4 @@ Details and instructions of the fringe games will be released on the day itself 
 
 <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Album</a>
 -->
-## Details of main event will be released soon :)
+## More details of main event will be released soon :)
