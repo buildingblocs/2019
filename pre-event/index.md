@@ -22,3 +22,8 @@ This year, we have managed to organise a BBQ event for our organisers and volunt
 <a class="btn" href="{{ site.baseurl }}/pre-event/bbq">Details</a>
 
 
+# Lucky draw
+
+This year, we will have weekly lucky draws on every Fri from 19 Apr and your chances accumulate till 7 Jun i.e. a total of 8 lucky draws, and there is no limit to the number of times you can get lucky!
+
+<a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw">Details</a>
