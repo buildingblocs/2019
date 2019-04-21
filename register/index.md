@@ -6,11 +6,11 @@ layout: default
 
 >BuildingBloCS19 conference registration is open for all Computing students (including organisers/facilitators) and teachers.
 
-Registration opens till Fri 17 May or earlier when slots run out (venue can only sit 300).The earlier you register, the better your chances at our lucky draws! 
+Registration opens till Fri 17 May or earlier when slots run out (venue can only sit 300). The earlier you register, the better your chances at our lucky draws! 
 
 We will have weekly draws on every Fri from 19 Apr and your chances accumulate till 7 Jun i.e. a total of 8 lucky draws, and there is no limit to the number of times you can get lucky! 
 
-[View Lucky draw details and results>>]({{ site.baseurl }}/pre-event/luckydraw">Lucky Draw)
+[View Lucky draw details and results>>]({{ site.baseurl }}/pre-event/luckydraw)
 
 [Contact us]({{ site.baseurl }}/contact) if you have any enquires.
 

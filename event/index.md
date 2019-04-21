@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-# Schedule
+# Conference Schedule (7 Jun 2019 at NUS School of Computing)
 
 {% for day in site.data.schedule %}
 {% if site.data.schedule.size > 1 %}<h2>Day {{ day.day }}</h2>{% endif %}
