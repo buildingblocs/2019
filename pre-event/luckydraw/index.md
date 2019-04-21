@@ -7,7 +7,7 @@ layout: default
 
 We will have weekly draws for all the registered participants on every Friday from 19 Apr and your chances accumulate till 7 Jun i.e. a total of 8 lucky draws, and there is no limit to the number of times you can get lucky!
 
->The coming lucky draw will take place on **19 April** at **4 pm**
+>The coming lucky draw will take place on **26 April** at **4 pm**
 
 Do visit [classdo.com](https://classdo.com) and witness the lucky draw unfold.
 
@@ -18,5 +18,17 @@ To ensure the equalness for every participant, we have decided to share the sour
 
 <a class="btn" href="https://github.com/buildingblocs/2019/blob/master/luckydraw.py">View Code</a>
 
+## Result
+{% for week in site.data.awards %}
+<h3>Week {{ week.week }}</h3>
+<table>
+    {% for awards in week.awards %}
+    <tr>
+        <td width="40%">{{ awards.prize }}</td>
+        <td width="60%">{{ awards.winner }}</td>
+    </tr>
+    {% endfor %}
+</table> 
+{% endfor %}
 
 
