@@ -20,9 +20,9 @@ published: true
 
 > &lsquo;A&rsquo; level / Integrated Programme and &lsquo;O&rsquo; level Computing students come together to build an infocomm-empowered future for a Better World!
 
-## Theme: Building a Smart Nation!
+## Theme: Building an AI Smart Nation
 
-Smart Nation for everyone, by everyone!
+Smart Nation powered by AI for everyone, by everyone!
 
 ## Format
 
