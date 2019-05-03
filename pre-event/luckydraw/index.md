@@ -21,6 +21,7 @@ To ensure the equalness for every participant, we have decided to share the sour
 ## Result
 {% for week in site.data.awards %}
 <h3>Week {{ week.week }}</h3>
+<a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw/video#{{week.week}}">Video</a>
 <table>
     {% for awards in week.awards %}
     <tr>
@@ -28,7 +29,7 @@ To ensure the equalness for every participant, we have decided to share the sour
         <td width="60%">{{ awards.winner }}</td>
     </tr>
     {% endfor %}
-</table> 
+</table>
 {% endfor %}
 
 
