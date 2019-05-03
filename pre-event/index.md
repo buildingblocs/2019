@@ -2,16 +2,18 @@
 layout: default
 ---
 
-# Pre-events
+# Workshops at PyCon SG
 
-BuildingBloCS 2019 has cooperated with **Fossasia** - the largest Asia-Pacific Open Source Conference this year. We are excited to announce free technology workshops for the community taking place at the FOSSASIA Summit 2019 evenings on Friday, March 15 and Saturday, March 16 as well as Saturday morning. This event is seperate from main conference, but serve as a lead to help students improve their coding proficiency.
+BuildingBloCS 2019 has partnered with **Python User Group** to conduct Young Coders Workshops for students. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
 
-[Get to know more &raquo;](https://2019.fossasia.org/#buildingblocs)
+[Learn more and sign up &raquo;](https://pycon.sg/young-coders)
 
 
-## Workshop
+## Workshops at FOSSASIA
 
-Our pre-event at Fossasia is composed of serveral **workshops** include Introduction to Python, VueJS, Databases and Machine Learning with Python.
+BuildingBloCS 2019 has partnered with **FOSSASIA** - the largest Asia-Pacific Open Source Conference this year. We are excited to announce free technology workshops for the community taking place at the FOSSASIA Summit 2019 evenings on Friday, March 15 and Saturday, March 16 as well as Saturday morning. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
+
+Our workshops **workshops** at FOSSASIA include Introduction to Python, VueJS, Databases and Machine Learning with Python.
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
 
