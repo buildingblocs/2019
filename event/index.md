@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-# Conference Schedule (7 Jun 2019 at NUS School of Computing)
+## Conference Schedule (7 Jun 2019 at NUS School of Computing)
 
 {% for day in site.data.schedule %}
 {% if site.data.schedule.size > 1 %}<h2>Day {{ day.day }}</h2>{% endif %}
@@ -17,17 +17,40 @@ published: true
 </table> 
 {% endfor %}
 
-# Updates
 
-Interested? [Click here]({{ site.baseurl }}/register#event) to register for it now!
+## Winpetition
+
+#DataCamp Outreach
+Description: 
+In conjunction with the theme of 'Building an AI Smart Nation', BuildingBloCS has partnered with AI Singapore to provide DataCamp access to students and teachers for free until end October 2019!
+
+Under the AI4BuildingBloCS AI for Students programme, students can complete a variety of DataCamp courses and exercises before the actual conference on June 7. Not only can they earn certification for course completion, any participant with strong participation stats stands to win prizes too (that is why we call it a winpetition)! Students can also do exercises on the DataCamp mobile app to gain XP. They can also complete interesting AI projects within/beyond DataCamp and have them featured on the BuildingBloCS website.
+
+Students that complete DataCamp courses/exercises/projects and earn XP will have bonus points credited to their teams for the onsite winpetition. Students that complete a significant number of courses/exercises/projects and with high XP will also be awarded prizes during the conference.
+
+#Track 1: Machine Learning
+Description:
+Participants will learn the basics of supervised machine learning. They will build a classification model using the learning algorithm k-Nearest Neighbours (k-NN) and calculate the accuracy using an evaluation method.
+
+During the winpetition, participants will use their skills learnt for k-Nearest Neighbours (k-NN) algorithm to build and fine-tune their model to solve real-world classification problems. They will also be required to pre-process and manipulate the data to enhance the performance of their model built.
+
+Prerequisites: Basic Python programming knowledge such as lists, loops and functions.
+
+#Track 2: Progressive Web App
+Description:
+Participants will learn about web development using Progressive Web Apps (PWAs). They will be creating a PWA using technologies such as an app manifest, Chrome DevTools and service workers.
+
+During the winpetition, participants will create a PWA in line with the AI Smart Nation theme!
+
+Prerequisites: HTML, CSS, JS
+
+
+## Updates
+
+Maituliao. [Click here]({{ site.baseurl }}/register#event) to register now!
+Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notifications on event updates :)
 
 <!--
-Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notifications on event updates :) 
-
-## Competition
-
-Stay Tuned for more details!!
-
 
 ## Fringe Games
 
