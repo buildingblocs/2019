@@ -20,7 +20,7 @@ published: true
 
 ## Winpetition
 
-#DataCamp Outreach
+# DataCamp Outreach
 Description: 
 In conjunction with the theme of 'Building an AI Smart Nation', BuildingBloCS has partnered with AI Singapore to provide DataCamp access to students and teachers for free until end October 2019!
 
@@ -28,7 +28,7 @@ Under the AI4BuildingBloCS AI for Students programme, students can complete a va
 
 Students that complete DataCamp courses/exercises/projects and earn XP will have bonus points credited to their teams for the onsite winpetition. Students that complete a significant number of courses/exercises/projects and with high XP will also be awarded prizes during the conference.
 
-#Track 1: Machine Learning
+# Track 1: Machine Learning
 Description:
 Participants will learn the basics of supervised machine learning. They will build a classification model using the learning algorithm k-Nearest Neighbours (k-NN) and calculate the accuracy using an evaluation method.
 
@@ -36,7 +36,7 @@ During the winpetition, participants will use their skills learnt for k-Nearest 
 
 Prerequisites: Basic Python programming knowledge such as lists, loops and functions.
 
-#Track 2: Progressive Web App
+# Track 2: Progressive Web App
 Description:
 Participants will learn about web development using Progressive Web Apps (PWAs). They will be creating a PWA using technologies such as an app manifest, Chrome DevTools and service workers.
 
