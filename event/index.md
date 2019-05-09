@@ -28,22 +28,17 @@ Under the AI4BuildingBloCS AI for Students programme, students can complete a va
 
 Students that complete DataCamp courses/exercises/projects and earn XP will have bonus points credited to their teams for the onsite winpetition. Students that complete a significant number of courses/exercises/projects and with high XP will also be awarded prizes during the conference.
 
-### Track 1: Machine Learning
+Some of the recommended courses include:
+- [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science): Master the basics of using Python for data science. Expand your skill set by learning scientific computing with NumPy, a library commonly used in data science and machine learning.
+- [Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib): Learn how to create, customise, and share data visualizations using Matplotlib. Matplotlib is a powerful Python data visualization library to create rich visualizations of many different kinds of datasets.
+
+### Machine Learning
 Description:
-Participants will learn the basics of supervised machine learning. They will build a classification model using the learning algorithm k-Nearest Neighbours (k-NN) and calculate the accuracy using an evaluation method.
+On the day of the conference, participants will learn the basics of supervised machine learning. They will build a classification model using the learning algorithm k-Nearest Neighbours (k-NN) and calculate the accuracy using an evaluation method.
 
 During the winpetition, participants will use their skills learnt for k-Nearest Neighbours (k-NN) algorithm to build and fine-tune their model to solve real-world classification problems. They will also be required to pre-process and manipulate the data to enhance the performance of their model built.
 
 Prerequisites: Basic Python programming knowledge such as lists, loops and functions.
-
-### Track 2: Progressive Web App
-Description:
-Participants will learn about web development using Progressive Web Apps (PWAs). They will be creating a PWA using technologies such as an app manifest, Chrome DevTools and service workers.
-
-During the winpetition, participants will create a PWA in line with the AI Smart Nation theme!
-
-Prerequisites: HTML, CSS, JS
-
 
 ## Updates
 
