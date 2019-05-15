@@ -50,7 +50,7 @@ This week, we combine what we learn in the previous 2 weeks, and learn how to di
 If the demand is high, we will also open up a final consultation session to answer any questions you have for the actual competiton on 1 June!
 -->
 
-## Workshops at PyCon SG(on-going)
+## Workshops at PyCon SG (on-going)
 
 BuildingBloCS 2019 has partnered with **Python User Group** to conduct Young Coders Workshops for students. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
 
@@ -58,8 +58,8 @@ BuildingBloCS 2019 has partnered with **Python User Group** to conduct Young Cod
 <br id="Fossasia">
 <br>
 
-## Fossasia Workshops
-We have also organsied pre-event workshops with **[Fossasia](https://2019.fossasia.org/)** at **Lifelong Learning Institute**. Below are the details. (More videos will be uploaded soon)
+## Workshops at FOSSASIA (completed)
+We have also organsied pre-event workshops with **[FOSSASIA](https://2019.fossasia.org/)** at **Lifelong Learning Institute**. Below are the details.
 
 
 ### Introduction to SQLite
