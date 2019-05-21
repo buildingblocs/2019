@@ -27,3 +27,10 @@ Your browser does not support the video tag.
   <source src="{{site.baseurl}}/assets/video/week3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<br  id="4">
+## Week 4
+<video width="100%"  controls>
+  <source src="{{site.baseurl}}/assets/video/week4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
