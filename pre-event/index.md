@@ -15,6 +15,12 @@ This year, we will have weekly lucky draws on every Fri from 19 Apr and your cha
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw">Details</a>
 
+## Coursemology
+Challenge yourself with Project Euler questions and hone your Python programming skills and mathematical knowledge. You will learn how to create different kinds of visualizations for different kinds of data and also make use of cool data science tools to start your own analyses. Join our BBCS Coursemology and start your journey!
+
+<a class="btn" href="{{ site.baseurl }}/pre-event/Coursemology">Details</a>
+
+
 # Past events
 
 ## Workshops at FOSSASIA
@@ -30,4 +36,5 @@ Our workshops **workshops** at FOSSASIA include Introduction to Python, VueJS, D
 This year, we have managed to organise a BBQ event for our organisers and volunteers. It took place on Thursday, 21st Mar at **[classdo.com](https://classdo.com/en/)** home office from 4 to about 8 pm.
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/bbq">Details</a>
+
 
