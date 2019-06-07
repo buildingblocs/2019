@@ -16,7 +16,10 @@ published: true
     {% endfor %}
 </table> 
 {% endfor %}
+	
 
+## Grouping for event:
+<a class="btn" href="https://docs.google.com/spreadsheets/d/1d04PgjLW7Uv2xsFUm5r1WwvjMiSpoik27xoNOG-iYGk/edit?usp=sharing">View Grouping</a>
 
 ## Winpetition
 
