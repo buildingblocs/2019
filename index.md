@@ -14,7 +14,7 @@ published: true
         </p>
         <p> <!-- /register-->
             <a class="btn" href="{{ site.baseurl }}/contact#location">Get there</a>
-            <a class="btn" href="{{ site.baseurl }}/register">Register</a>
+            <!--<a class="btn" href="{{ site.baseurl }}/register">Register</a> -->
         </p>
 
     </div>
